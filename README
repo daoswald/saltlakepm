@@ -1,0 +1,7 @@
+Salt Lake Perl Mongers website
+
+bootstrap/   # Contains twitter bootstrap CSS, etc.
+img/         # website images.
+index.html   # home page.
+contact.html # Contact page.
+
