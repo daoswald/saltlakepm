@@ -3,5 +3,11 @@ Salt Lake Perl Mongers website
 bootstrap/   # Contains twitter bootstrap CSS, etc.
 img/         # website images.
 index.html   # home page.
+past.html    # Past presentations page.
 contact.html # Contact page.
+
+We use Twitter Bootstrap, and take our layout from
+the following template:
+
+http://twitter.github.io/bootstrap/examples/marketing-narrow.html
 
